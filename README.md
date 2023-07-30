@@ -1,3 +1,13 @@
+29a377f6797c05c477c5f757a77ce70e
+API_URL:"https://api.themoviedb.org/3/movie/popular?api_key=29a377f6797c05c477c5f757a77ce70e"
+API_IMG:"https://image.tmdb.org/t/p/w500/"
+API_SEARCH:"https://api.themoviedb.org/3/search/movie?api_key=29a377f6797c05c477c5f757a77ce70e&query"
+
+
+1E5baAaEse26fej7uHcjOgEE2t2.jpg
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
