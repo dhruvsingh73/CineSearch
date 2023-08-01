@@ -11,7 +11,6 @@ const MovieBox = ({title,poster_path,vote_average,release_date,overview})=>{
 
 
     return (
-        
         <div className="card text-center bg-secendary mb-3">
             <div className="card-body">
                 <img className="card-img-top" src={API_IMG+poster_path}/>
